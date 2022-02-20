@@ -1,0 +1,38 @@
+{
+	"0001": {
+		"title": "Pineapple",
+		"price": 34,
+		"img": "https://i.ibb.co/bzvGnnf/icons8-80.png",
+		"description": "This is product information."
+	},
+	"0002": {
+		"title": "Chery",
+		"price": 23,
+		"img": "https://i.ibb.co/m6CQK2G/icons8-80.png",
+		"description": "This is product information."
+	},
+	"0003": {
+		"title": "Chocolate",
+		"price": 5,
+		"img": "https://i.ibb.co/nLjv1qk/icons8-80.png",
+		"description": "This is product information."
+	},
+	"0004": {
+		"title": "Cheese",
+		"price": 40,
+		"img": "https://i.ibb.co/pZfTwCz/icons8-80.png",
+		"description": "This is product information."
+	},
+	"0005": {
+		"title": "Bread",
+		"price": 6,
+		"img": "https://i.ibb.co/T8LY5v0/icons8-80.png",
+		"description": "This is product information."
+	},
+	"0006": {
+		"title": "Milk",
+		"price": 4 ,
+		"img": "https://i.ibb.co/6rMBBQP/milk-bottle.png",
+		"description": "This is product information."
+	}
+}
